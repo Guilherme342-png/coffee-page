@@ -269,7 +269,7 @@ section {
 }
 
 .footer .share img:hover{
-    background-color: var(--main-color);
+    background-color: red;
     transform: scale(1.2);
 }
 
